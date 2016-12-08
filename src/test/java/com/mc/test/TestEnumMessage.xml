@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="BIZ_TYPE_IS_INVALID">userId转memberId错误</entry>
+    <entry key="PRODUCT_STATUS_ERROR">商品状态错误</entry>
+    <entry key="PRODUCT_QUERY_ERROR">商品查询异常</entry>
+    <entry key="SCENE_ID_NULL">场景ID为空</entry>
+    <entry key="CAT_CONFIG_NULL">类目过滤配置为空</entry>
+    <entry key="CAT_DATA_NULL">类目过滤数据为空</entry>
+    <entry key="SEARCH_SERVICE_ERROR">搜索服务异常</entry>
+    <entry key="PRODUCT_MEMBER_INVALID">商品与会员不一致</entry>
+    <entry key="CBACCOUNT_ID_ERROR">cbAccountId错误</entry>
+    <entry key="ACCOUNT_LINKED_ERROR">获取不到绑定账号</entry>
+</properties>
